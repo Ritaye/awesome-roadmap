@@ -1,6 +1,6 @@
 # CSS 基础
 
-CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+层叠样式表(Cascading Style Sheets, CSS)是用于设计任何网站前端的语言。CSS是万维网的一项基石技术，与HTML和JavaScript并列。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.w3schools.com/css/'>W3Schools — Learn CSS</BadgeLink>

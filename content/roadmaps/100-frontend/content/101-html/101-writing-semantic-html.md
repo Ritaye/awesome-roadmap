@@ -1,6 +1,6 @@
-# Semantic HTML
+# HTML语义化
 
-Semantic element clearly describes its meaning to both the browser and the developer.
+语义元素能够清楚地向浏览器和开发者描述其含义。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.w3schools.com/html/html5_semantic_elements.asp'>W3Schools: Semantic HTML</BadgeLink>

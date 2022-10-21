@@ -1,6 +1,6 @@
-# Making layouts
+# 布局设计
 
-Float, grid, flexbox, positioning, display and box model are some of the key topics that are used for making layouts. Use the resources below to learn about these topics: 
+Float、grid、flexbox、position、display和box model是一些用于设计布局的关键字。可使用下面的资源来学习这些主题。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

@@ -1,5 +1,5 @@
-# Accessibility
-Web accessibility means that websites, tools, and technologies are designed and developed in such a way that people with disabilities can use them easily.
+# 无障碍性
+网络无障碍性是指网站、工具和技术的设计和开发，使非技术人员也能方便地使用它们。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.w3.org/WAI/tips/developing/'>Developing for Web Accessibility by W3C WAI

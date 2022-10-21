@@ -1,6 +1,7 @@
-# Basics of SEO
+# SEO的基础知识
 
-SEO or Search Engine Optimization is the technique used to optimize your website for better rankings on search engines such as Google, Bing etc.
+SEO或搜索引擎优化是用来优化你的网站，以便在谷歌、必应等搜索引擎上获得更好的排名的技术。
+
 
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>

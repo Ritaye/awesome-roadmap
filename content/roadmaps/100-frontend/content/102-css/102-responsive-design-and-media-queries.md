@@ -1,6 +1,6 @@
-# Responsive Web Design
+# 响应式网页设计
 
-Responsive Web Designing is the technique to make your webpages look good on all screen sizes. There are certain techniques used to achieve that e.g. CSS media queries, percentage widths, min or max widths heights etc.
+响应式网页设计是一种使你的网页在所有的屏幕尺寸上看起来统一的技术。例如，CSS媒体查询、百分比宽度、最小或最大宽度高度等。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 

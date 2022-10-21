@@ -1,6 +1,6 @@
 # HTML
 
-HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.
+HTML是超文本标记语言的缩写。它在前端使用，并为网页提供结构，你可以使用CSS进行样式设计，并使用JavaScript进行互动。
 
 <ResourceGroupTitle>Free Content</ResourceGroupTitle>
 <BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.w3schools.com/html/html_intro.asp'>W3Schools: Learn HTML</BadgeLink>
